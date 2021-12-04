@@ -2,6 +2,8 @@ package dao;
 
 import java.util.List;
 
+import entity.Student;
+
 public interface StudentDAO {
-	public List<> createStudent();
+	public List<Student> createStudent();
 }
